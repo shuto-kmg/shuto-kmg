@@ -1,16 +1,14 @@
-## Hi there 👋
+# こんにちは! 👋 私は周東です
 
-<!--
-**shuto-kmg/shuto-kmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ 自己紹介
+- 🌱 Web開発を学んでいます
+- 💻 フロントエンドに興味があります
+- 📚 毎日少しずつ成長中です
 
-Here are some ideas to get you started:
+## 🛠️ 学習中の技術
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 連絡先
+- メール: dtpknd0815@gmail.com
