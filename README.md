@@ -1,9 +1,9 @@
 # こんにちは! 👋 
 
 ## 🙋‍♂️ 自己紹介
-- 🌱 Web開発を学んでいます
-- 💻 フロントエンドに興味があります
-- 📚 毎日少しずつ成長中です
+- 🌱 ……
+- 💻 ……
+- 📚 ……
 
 ## 🛠️ 学習中の技術
 ![Java](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
